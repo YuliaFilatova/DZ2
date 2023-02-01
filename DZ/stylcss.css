@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color: rgb(255 255 255);
+    font-size: 50px;
+    text-shadow: 3px 3px #051203c7;
+    padding: 40px 0;
+    font-weight: bold;
+    text-align:center; 
+    margin-top: 0;
+}
+h2{
+    color:rgb(57, 61, 6);
+    font-size:35px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+ul{
+    font-size:25px;
+    line-height: 1.6;
+    margin: 3rem 0 2rem;
+  
+}
+
+p{
+    font-size: 25px;
+    text-align: left;
+    line-height: 1,6;
+    color:black
+}
+
+strong{
+    margin: 0 50px;
+}
+
+.header{
+    height:150px;
+    background-color: rgba(180, 176, 191, 0.963);
+}
+
+.content{
+    height:auto;
+    margin:0 auto;
+}
+
+.content_with_background{
+    background-image:url(https://assets.unenvironment.org/decadeonrestoration/2020-03/nature-3294681_1280%20%281%29.jpg);
+    background-position: bottom left;
+    background-size: cover;
+    color:rgb(168, 38, 38);
+}
+
+.two_columns{
+    columns:2;
+    margin: 0 100px;
+}
+
+img{
+    border: 1px solid rgb(252, 249, 249);
+    border-radius: 40px;
+    padding: 20px;
+    width: 600px;
+    display: block;
+    text-align: right;
+    
+}
+
+.footer{
+    margin:50px 100px;
+}
